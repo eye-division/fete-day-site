@@ -74,11 +74,7 @@ Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebr
 
 **8/9 SEPTEMBER FRIDAY AND SATURDAY, 6.30-9.30pm, Finale at 8.30pm**
 
-**Written by Beth Flintoff
-<br>Music by Nick Bic&acirc;t&nbsp;
-<br>Performance Director Sophie Austin.
-<br>Creative Director & Producer Rosa Productions
-<br>A large cast of local performers, choir, musicians, artists and re-enactors with Paola Dionisotti and other professional performers.**
+**Written by Beth Flintoff<br>Music by Nick Bic&acirc;t&nbsp;<br>Performance Director Sophie Austin.<br>Creative Director & Producer Rosa Productions<br>A large cast of local performers, choir, musicians, artists and re-enactors with Paola Dionisotti and other professional performers.**
 
 For more information about this production please click on the links below.
 
@@ -118,13 +114,11 @@ Please book tickets through the Corn Exchange or West Berkshire Museum. Please c
 
 **[Decontamination Suite Tours](https://cornexchangenew.com/event/decontamination-suite-tours)&nbsp;8th & 9th September, Greenham Business Park**
 
-**[Military History Walk](https://cornexchangenew.com/event/military-history-walk)&nbsp;8th & 9th September, Control Tower, Bury's Bank Road**
+**[Military History Walk](https://cornexchangenew.com/event/military-history-walk)&nbsp;8th & 9th September, Control Tower, Bury’s Bank Road**
 
-**[How We Made The Show with Free Afternoon Tea](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;9th September, Greenham St Mary's Church Hall**
+**[How We Made The Show with Free Afternoon Tea](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;9th September, Greenham St Mary’s Church Hall**
 
 **[Tracks Across the Common: Exhibition](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;27th September, West Berkshire Museum**
-
-&nbsp;
 
 **[West Berkshire Museum: Post Event Talks](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;**
 
@@ -136,8 +130,10 @@ Please book tickets through the Corn Exchange or West Berkshire Museum. Please c
 
 **[Living with the Americans](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;20th October**
 
-&nbsp;
-
 [**Press Pack**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/press-pack)
 
-[](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)![](/uploads/versions/website-logos---x----3402-1309x---.jpg)
+## **#GREENHAMWP17**
+
+**Did you attend the event? If so we would love to get your feedback!&nbsp;[Please click here to go to our survey page.](https://www.surveymonkey.co.uk/r/S5K8TRP)**
+
+![](/uploads/versions/website-logos---x----3402-1309x---.jpg)
