@@ -95,6 +95,10 @@ images:
     description: Oxygen Photography
   - image_path: /uploads/IMG_9392.jpg
     description: Oxygen Photography
+  - image_path: /uploads/IMG_9409.jpg
+    description: Oxygen Photography
+  - image_path: /uploads/IMG_9420.jpg
+    description: Oxygen Photography
 ---
 
 
