@@ -13,7 +13,13 @@ list: true
 highlight: true
 past: false
 main_image_path: /uploads/Greenham Image Wildlife - artwork Kinetika with BBOWT volunteers.jpg
-video_embed:
+video_embed: >-
+  <iframe src="https://player.vimeo.com/video/233180405" width="640"
+  height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
+  allowfullscreen></iframe> <p><a href="https://vimeo.com/233180405">FINALE OF
+  GREENHAM COMMON 100 YEARS OF WAR &amp; PEACE</a> from <a
+  href="https://vimeo.com/rosaproductions">Rosa Productions</a> on <a
+  href="https://vimeo.com">Vimeo</a>.</p>
 images:
   - image_path: /uploads/banner-workshop-in-progress.JPG
     description: Silk banner painting workshop with artist Ali Pretty
@@ -83,14 +89,6 @@ For more information about this production please click on the links below.
 [**GREENHAM: 100 Programme**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
 
 [**GREENHAM:100 Travel Information**](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/transport)
-
-[Book Paid Parking](https://www.eventbrite.com/e/greenham-pre-bookable-paid-car-parking-100-years-war-and-peace-tickets-35757009177)
-
-[Book Disabled Parking](https://www.eventbrite.com/e/disabled-and-limited-mobility-parking-for-greenham-100-years-of-war-and-peace-tickets-35801326732?aff=erelpanelorg)
-
-[Book Bus Tickets from Newbury College](https://www.eventbrite.com/e/newbury-college-bus-two-way-return-trip-to-the-greenham-100-event-site-tickets-36079390428)
-
-[Free Shuttle Bus Service from Cheap Street, Newbury Town Centre](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/transport)
 
 [**GREENHAM: 100 FAQs**](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/faqs)
 
