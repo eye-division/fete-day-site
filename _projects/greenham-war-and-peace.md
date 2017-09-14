@@ -77,6 +77,10 @@ images:
     description: Oxygen Photography
   - image_path: /uploads/21457511_1413329762035927_8229023872110784558_o.jpg
     description: Oxygen Photography
+  - image_path: /uploads/21457671_1413328995369337_843540759799392471_o.jpg
+    description: Oxygen Photography
+  - image_path: /uploads/21457676_1413330235369213_4256172362676924846_o.jpg
+    description: Oxygen Photography
 ---
 
 
