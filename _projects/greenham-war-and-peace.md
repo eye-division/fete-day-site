@@ -120,7 +120,11 @@ images:
   - image_path: /uploads/P43A0178.jpg
     description: Oxygen Photography
   - image_path: /uploads/P43A0723.jpg
-    description:
+    description: Oxygen Photography
+  - image_path: /uploads/P43A0826.jpg
+    description: Oxygen Photography
+  - image_path: /uploads/P43A1138.jpg
+    description: Oxygen Photography
 ---
 
 
