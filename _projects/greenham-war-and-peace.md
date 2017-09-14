@@ -1,5 +1,5 @@
 ---
-title: 'Greenham: 100 Years of War and Peace'
+title: 'Greenham: One Hundred Years of War and Peace'
 description: >-
   A unique and exciting, large-scale outdoor community event will be held on
   Friday 8th and Saturday 9th September 2017 at Greenham Common. Internationally
