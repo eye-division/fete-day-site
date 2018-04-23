@@ -11,7 +11,7 @@ project_date: 2017-09-08 00:00:00
 project_to_date:
 list: true
 highlight: false
-past: false
+past: true
 main_image_path: /uploads/Greenham Image Wildlife - artwork Kinetika with BBOWT volunteers.jpg
 video_embed: >-
   <iframe src="https://player.vimeo.com/video/233180405" width="640"
