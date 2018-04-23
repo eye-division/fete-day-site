@@ -4,10 +4,10 @@ description: >-
   Journey through time and experience the Decontamination Suite, Peace Camp and
   Control Tower at Greenham Common in specially commissioned immersive theatre
   scenes.
-project_date:
+project_date: 2018-09-08 00:00:00
 project_to_date:
-list: false
-highlight: false
+list: true
+highlight: true
 past: false
 main_image_path: /uploads/cold-war-and-ww2-jpeg.jpg
 video_embed:
@@ -38,15 +38,15 @@ Linked by Military History walks (with option to use own vehicle instead of walk
 
 **Dates:**
 
-**Saturday 8th/ Sunday 9th& Saturday 15th/ Sunday 16thSeptember 2018**
+**Saturday 8th / Sunday 9th & Saturday 15th / Sunday 16thSeptember 2018**
 
 10.30am & 2.00pm – Public Performances
 
-**Tuesday 11th– Friday 14thSeptember 2018**
+**Tuesday 11th – Friday 14thSeptember 2018**
 
 10.00am & 1.30pm – Schools & Public Performances
 
-**Saturday 15thSeptember 2018**
+**Saturday 15th September 2018**
 
 10.30am – Access Performance&nbsp;
 
