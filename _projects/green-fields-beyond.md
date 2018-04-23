@@ -1,11 +1,13 @@
 ---
 title: BBC Lincoln 16 - Green Fields Beyond
-description: On Friday 15 and Saturday 16 July 2016 Lincoln hosted two days of outdoor arts events to mark the 100th anniversary of the First World War.
+description: >-
+  On Friday 15 and Saturday 16 July 2016 Lincoln hosted two days of outdoor arts
+  events to mark the 100th anniversary of the First World War.
 project_date: 2016-07-01 00:00:00
 project_to_date:
 list: true
 highlight: false
-past: false
+past: true
 main_image_path: /uploads/green-fields-beyond.jpg
 video_embed:
 images:
@@ -51,10 +53,8 @@ images:
     description:
 ---
 
-
 On Friday 15 and Saturday 16 July 2016 Lincoln hosted two days of outdoor arts events to mark the 100th anniversary of the First World War. Working with BBC Radio Lincolnshire Fete Day produced professionally-led mass participation live performances to commemorate the anniversary of the landmark invention of the tank. Alongside the main events there was also programme of heritage talks and activities.
 
 The large scale outdoor arts event was organised by the same team behind the award winning Lipdub Lincoln Project of 2013, when BBC Radio Lincolnshire brought thousands of participants onto the streets of Lincoln for a highly acclaimed public arts happening. Supported by the BBC, Arts Council England and the Heritage Lottery Fund.
 
-[http://www.lincoln16greenfieldsbeyond.com/](http://www.lincoln16greenfieldsbeyond.com/ "Green Fields website")
-<br>[https://www.facebook.com/LincolnLipDub/](https://www.facebook.com/LincolnLipDub/ "LincolnLipDub")
+[http://www.lincoln16greenfieldsbeyond.com/](http://www.lincoln16greenfieldsbeyond.com/ "Green Fields website")<br>[https://www.facebook.com/LincolnLipDub/](https://www.facebook.com/LincolnLipDub/ "LincolnLipDub")
