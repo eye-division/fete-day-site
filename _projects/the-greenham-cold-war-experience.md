@@ -1,6 +1,9 @@
 ---
 title: The Greenham Cold War Experience
-description: "A unique opportunity to explore parts of Greenham Common that played a key role in the Cold War, through scenes presented by professional performers.\_\_These special live events are timed to coincide with the public launch for the opening of Greenham Common Control Tower."
+description: >-
+  Journey through time and experience the Decontamination Suite, Peace Camp and
+  Control Tower at Greenham Common in specially commissioned immersive theatre
+  scenes.
 project_date:
 project_to_date:
 list: false
