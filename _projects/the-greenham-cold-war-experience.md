@@ -33,6 +33,20 @@ Linked by Military History walks (with option to use own vehicle instead of walk
 
 &nbsp;**“WOW - the decontamination suite performers were FANTASTIC! They really created the mood. The visit has inspired children to do further research into Greenham Common's history” Mary Hare School 2017 performance of Decontamination Suite Tour&nbsp;**
 
+**Dates:**
+
+**Saturday 8th/ Sunday 9th& Saturday 15th/ Sunday 16thSeptember 2018**
+
+10.30am & 2.00pm – Public Performances
+
+**Tuesday 11th– Friday 14thSeptember 2018**
+
+10.00am & 1.30pm – Schools & Public Performances
+
+**Saturday 15thSeptember 2018**
+
+10.30am – Access Performance&nbsp;
+
 **Tickets**&nbsp;
 
 Prices – Adults &pound;8 / Concessions &pound;5 / School Bookings &pound;3 per student.
