@@ -20,9 +20,7 @@ A unique opportunity to explore parts of Greenham Common that played a key role 
 
 **Decontamination Suite Tour &nbsp;**
 
-You have been contaminated.
-
-Follow the red arrows on the floor. Follow all instructions.&nbsp; DO NOT ATTEMPT TO LEAVE.&nbsp; Our theatrical guided tour will unveil the fascinating secrets locked away in Greenham’s chemical decontamination suite, part of the USAF Cold War former Wing Headquarters Building.
+You have been contaminated. Follow the red arrows on the floor. Follow all instructions.&nbsp; DO NOT ATTEMPT TO LEAVE.&nbsp; Our theatrical guided tour will unveil the fascinating secrets locked away in Greenham’s chemical decontamination suite, part of the USAF Cold War former Wing Headquarters Building.
 
 **Control Tower USAF Experience**
 
