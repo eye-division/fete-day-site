@@ -9,7 +9,7 @@ project_to_date: 2018-09-08 00:00:00
 list: true
 highlight: true
 past: false
-main_image_path: /uploads/cold-war-full6.jpg
+main_image_path: /uploads/coldwar-720x3676-1.jpg
 video_embed:
 images:
   - image_path:
