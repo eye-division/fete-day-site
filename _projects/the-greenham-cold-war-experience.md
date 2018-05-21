@@ -12,8 +12,14 @@ past: false
 main_image_path: /uploads/coldwar-720x3676-1.jpg
 video_embed:
 images:
-  - image_path:
-    description:
+  - image_path: /uploads/img-3094.JPG
+    description: Greenham Cold War Experience Planning Day
+  - image_path: /uploads/img-3095.JPG
+    description: Greenham Common Control Tower
+  - image_path: /uploads/img-3096.JPG
+    description: Greenham Common Control Tower
+  - image_path: /uploads/img-3097.JPG
+    description: Greenham Common Control Tower
 ---
 
 A unique opportunity to explore parts of Greenham Common that played a key role in the Cold War, through scenes presented by professional performers.  These special live events are timed to coincide with the public launch for the opening of Greenham Common Control Tower. Three 15-minute scenes with a Q & A with a local historian, will bring the Cold War of the 1980s to life, and two venues either side of the Common are linked by a 30 minute walk across the beautiful Greenham Common, a Site of Scientific Interest, and filled with wildlife amongst the relics of military life. (Total duration approx 90 to 100 mins).  
