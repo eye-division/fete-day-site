@@ -22,9 +22,11 @@ images:
     description: Greenham Common Control Tower
 ---
 
-[M](https://www.dropbox.com/s/jpvzlougltn3uay/Greenham%20Map%203.pdf?dl=0)[ap of Venue Start Points for Greenham Cold War Experience - please check your tickets carefully for Start Point.](__notset__)
+&nbsp;
 
 Tickets:&nbsp;[https://cornexchangenew.com/event/greenham-cold-war-experience](https://cornexchangenew.com/event/greenham-cold-war-experience){: target="_blank"}
+
+Map of Venue Start Points: https://www.dropbox.com/s/jpvzlougltn3uay/Greenham%20Map%203.pdf?dl=0&nbsp;&nbsp;
 
 A unique opportunity to explore parts of Greenham Common that played a key role in the Cold War, through scenes presented by professional performers. &nbsp;These special live events are timed to coincide with the public launch for the opening of Greenham Common Control Tower. Three 15-minute scenes with a Q & A with a local historian, will bring the Cold War of the 1980s to life, and two venues either side of the Common are linked by a 30 minute walk across the beautiful Greenham Common, a Site of Scientific Interest, and filled with wildlife amongst the relics of military life. (Total duration approx 90 to 100 mins).&nbsp;&nbsp;
 
