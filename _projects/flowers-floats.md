@@ -31,6 +31,12 @@ images:
       Grantham museum during Gravity Fields Festival 2018.
   - image_path: /uploads/fullsizerender.jpg
     description:
+  - image_path: /uploads/gravity-fields-21.jpg
+    description:
+  - image_path: /uploads/img-6445-1.JPG
+    description:
+  - image_path: /uploads/gravity-fields-30.jpg
+    description:
 ---
 
 Flowers, Floats and Walks offered community participants, working with local and national artists, the opportunity to learn new skills based on craft work with artificial and real flowers and plants.&nbsp; Through community sessions with adult community volunteers and college and school students, installations of flower were created.&nbsp;
