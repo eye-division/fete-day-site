@@ -23,7 +23,7 @@ images:
     description:
   - image_path: /uploads/gravity-fields-143.jpg
     description:
-  - image_path: /uploads/gravity-fields-143.jpg
+  - image_path: /uploads/gravity-fields-144.jpg
     description:
   - image_path: /uploads/gravity-fields-134.jpg
     description:
