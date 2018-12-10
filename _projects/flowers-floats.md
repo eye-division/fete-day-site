@@ -19,7 +19,11 @@ past: false
 main_image_path: /uploads/069a4523.JPG
 video_embed:
 images:
-  - image_path:
+  - image_path: /uploads/cover-image-3.jpg
     description:
+  - image_path: /uploads/blind-society-2-1.JPG
+    description: >-
+      Floral display created during a craft session with the Grantham Blind
+      Society.
 ---
 
