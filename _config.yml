@@ -11,7 +11,7 @@ subtitle: <strong>Creative production</strong> and <strong>heritage</strong>
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.feteday.co.uk"
+url: "https://www.feteday.co.uk"
 logo: "/assets/logo.png"
 email: fetedaycontact@gmail.com
 
@@ -22,8 +22,8 @@ permalink: /posts/:title
 
 # Image CDN
 imagecdn:
-  staging: "http://ed-fete-day-dev.imgix.net"
-  production: "http://ed-fete-day.imgix.net"
+  staging: "https://ed-fete-day-dev.imgix.net"
+  production: "https://ed-fete-day.imgix.net"
 
 
 # Collections
