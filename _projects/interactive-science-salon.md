@@ -37,7 +37,7 @@ The Science Salon ran alongside the Gravity Fields Festival 2018 which was theme
 
 &nbsp;
 
-Volunteers in Grantham worked at the Museum with the Fete Day production team to research voyages of Lincolnshire born explorer to Newfoundland, Australia and Iceland . The research led to the creation of an electronic interactive globe designed with Edinburgh based interactive company Pufferfish.
+Volunteers in Grantham worked at the Museum with the Fete Day production team to research voyages of Lincolnshire born explorer to Newfoundland, Australia and Iceland. The research led to the creation of an electronic interactive globe designed with Edinburgh based interactive company Pufferfish.
 
 &nbsp;
 
