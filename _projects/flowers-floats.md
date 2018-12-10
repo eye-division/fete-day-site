@@ -37,6 +37,10 @@ images:
     description:
   - image_path: /uploads/gravity-fields-30.jpg
     description:
+  - image_path: /uploads/gravity-fields-94.jpg
+    description:
+  - image_path: /uploads/gravity-fields-113.jpg
+    description:
 ---
 
 Flowers, Floats and Walks offered community participants, working with local and national artists, the opportunity to learn new skills based on craft work with artificial and real flowers and plants.&nbsp; Through community sessions with adult community volunteers and college and school students, installations of flower were created.&nbsp;
