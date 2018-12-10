@@ -61,9 +61,7 @@ Lincolnshire Wildlife Trust added to the project with a display of their work to
 
 &nbsp;
 
-Craft sessions for adult volunteers were held at Grantham Guildhall Arts Centre &nbsp;and at Wyndham Park, and numerous further sessions with schools and College groups, special sessions with the Grantham Blind Society, and flower arranging took place at Grantham Museum.&nbsp;
-
-The volunteers, students and school children then walked with their flower installations across the town of Grantham as part of the Gravity Fields Festival outdoor events. &nbsp;Museum volunteers were on hand with refreshments to reward schools and students who walked with their hand-drawn floats across the town centre.
+Craft sessions for adult volunteers were held at Grantham Guildhall Arts Centre &nbsp;and at Wyndham Park, and numerous further sessions with schools and College groups, special sessions with the Grantham Blind Society, and flower arranging took place at Grantham Museum.&nbsp; The volunteers, students and school children then walked with their flower installations across the town of Grantham as part of the Gravity Fields Festival outdoor events. &nbsp;Museum volunteers were on hand with refreshments to reward schools and students who walked with their hand-drawn floats across the town centre.
 
 &nbsp;
 
