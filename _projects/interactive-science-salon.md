@@ -16,14 +16,16 @@ project_to_date: 2018-12-01 00:00:00
 list: false
 highlight: false
 past: true
-main_image_path: /uploads/project-cover-image-1.jpg
+main_image_path: /uploads/project-cover-image-2.jpg
 video_embed:
 images:
   - image_path: /uploads/gravity-fields-141.jpg
     description:
-  - image_path:
+  - image_path: /uploads/gravity-fields-141.jpg
     description:
-  - image_path:
+  - image_path: /uploads/gravity-fields-141.jpg
+    description:
+  - image_path: /uploads/gravity-fields-134.jpg
     description:
 ---
 
