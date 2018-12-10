@@ -16,7 +16,7 @@ project_to_date: 2018-09-30 00:00:00
 list: false
 highlight: false
 past: false
-main_image_path: /uploads/069a4523.JPG
+main_image_path: /uploads/gravity-fields-109.jpg
 video_embed:
 images:
   - image_path: /uploads/cover-image-3.jpg
@@ -43,13 +43,13 @@ images:
     description:
 ---
 
-Flowers, Floats and Walks offered community participants, working with local and national artists, the opportunity to learn new skills based on craft work with artificial and real flowers and plants.&nbsp; Through community sessions with adult community volunteers and college and school students, installations of flower were created.&nbsp;
+Flowers, Floats and Walks offered community participants, working with local and national artists, the opportunity to learn new skills based on craft work with artificial and real flowers and plants.  Through community sessions with adult community volunteers and college and school students, installations of flower were created. 
 
-Many of the installations were on hand-pulled carts – ‘floats’ - with floral designs which took part in the large scale outdoor event.&nbsp; Other static installations were created at the newly refurbished Wyndham Park boating pool working with a group of Wyndham Park volunteers, and at an indoor flower exhibition at Grantham Museum. Lincolnshire Wildlife Trust added to the project with a display of their work to the public at the time of the festival.
+Many of the installations were on hand-pulled carts – ‘floats’ - with floral designs which took part in the large scale outdoor event.  Other static installations were created at the newly refurbished Wyndham Park boating pool working with a group of Wyndham Park volunteers, and at an indoor flower exhibition at Grantham Museum. Lincolnshire Wildlife Trust added to the project with a display of their work to the public at the time of the festival.
 
 ![](/uploads/best-of-134-1.jpg)
 
-Craft sessions for adult volunteers were held at Grantham Guildhall Arts Centre &nbsp;and at Wyndham Park, and numerous further sessions with schools and College groups, special sessions with the Grantham Blind Society, and flower arranging took place at Grantham Museum.&nbsp; The volunteers, students and school children then walked with their flower installations across the town of Grantham as part of the Gravity Fields Festival outdoor events. &nbsp;Museum volunteers were on hand with refreshments to reward schools and students who walked with their hand-drawn floats across the town centre.
+Craft sessions for adult volunteers were held at Grantham Guildhall Arts Centre  and at Wyndham Park, and numerous further sessions with schools and College groups, special sessions with the Grantham Blind Society, and flower arranging took place at Grantham Museum.  The volunteers, students and school children then walked with their flower installations across the town of Grantham as part of the Gravity Fields Festival outdoor events.  Museum volunteers were on hand with refreshments to reward schools and students who walked with their hand-drawn floats across the town centre.
 
 Further walks took place as part of the wider festival activity in and around the National Trust’s Woolsthorpe Manor and the neighbouring village of Colsterworth.
 
