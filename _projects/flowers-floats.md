@@ -13,7 +13,7 @@ description: >-
   and other walkers took part in walks as part of the wider festival activity.
 project_date: 2018-06-01 00:00:00
 project_to_date: 2018-09-30 00:00:00
-list: false
+list: true
 highlight: false
 past: false
 main_image_path: /uploads/gravity-fields-109.jpg
