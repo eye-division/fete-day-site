@@ -43,6 +43,8 @@ images:
     description:
   - image_path: /uploads/gravity-fields-34.jpg
     description: Dallas Campbell poses for a photo with school children and their float.
+  - image_path: /uploads/img-6159.JPG
+    description:
 ---
 
 Flowers, Floats and Walks offered community participants, working with local and national artists, the opportunity to learn new skills based on craft work with artificial and real flowers and plants.  Through community sessions with adult community volunteers and college and school students, installations of flower were created. 
