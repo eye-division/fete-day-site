@@ -19,6 +19,10 @@ past: true
 main_image_path: /uploads/project-cover-image-1.jpg
 video_embed:
 images:
+  - image_path: /uploads/gravity-fields-141.jpg
+    description:
+  - image_path:
+    description:
   - image_path:
     description:
 ---
@@ -34,6 +38,8 @@ Volunteers in Grantham worked at the Museum with the Fete Day production team to
 As part of the Interactive Science Salon, we also hosted a series of historical talks, a display of drawings by the Lincolnshire philosopher William Stukeley (who lived in Grantham for 4 years from 1726 to 1730), an exhibition of antiquarian books by Grantham-based specialists Type and Forme, and a flower show organised by Sue Hodgson and Grantham flower arrangers inspired by the countries visited by HMS Endeavour.
 
 The Interactive Science Salon was presented in partnership with Grantham Museum, Gravity Fields Festival 2018, South Kesteven District Council, Grantham Civic Society, the Joseph Banks Society and Centre, Spalding Gentleman’s Society and with the support of academics at UCL.
+
+![](/uploads/gravity-fields-131.jpg)
 
 The Interactive Science Salon was supported by the Heritage Lottery Fund and South Kesteven District Council.
 
