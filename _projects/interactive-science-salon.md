@@ -15,7 +15,7 @@ project_date: 2018-07-01 00:00:00
 project_to_date: 2018-12-01 00:00:00
 list: false
 highlight: false
-past: true
+past: false
 main_image_path: /uploads/project-cover-image-2.jpg
 video_embed:
 images:
