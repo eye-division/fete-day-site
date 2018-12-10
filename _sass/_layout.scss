@@ -308,11 +308,11 @@ main {
 .front {
   width: 100%;
   height: 100%;
-  background-image: url("../assets/front-sm.jpg");
+  background-image: url("../assets/gravity_fields_sm.jpg");
   background-position: 50%;
   background-size: cover;
   @include media ($tablet) {
-    background-image: url("../assets/front-lg.jpg");
+    background-image: url("../assets/gravity_fields_lg.jpg");
   }
   .site-header {
     @include outer_container;

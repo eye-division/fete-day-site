@@ -1,9 +1,7 @@
-# External gems
-gems:
-  - jekyll-sitemap
+# External gems - updated to plugins in jekyll v3.6
+plugins:
+   - jekyll-sitemap
 
-exclude:
-  - "/vendor/"
 
 # Site settings
 title: Fete Day
@@ -19,9 +17,7 @@ email: fetedaycontact@gmail.com
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
+
 permalink: /posts/:title
 
 # Image CDN
