@@ -55,6 +55,8 @@ Many of the installations were on hand-pulled carts – ‘floats’ - with flor
 
 Lincolnshire Wildlife Trust added to the project with a display of their work to the public at the time of the festival.
 
+&nbsp;
+
 ![](/uploads/best-of-134-1.jpg)
 
 &nbsp;
