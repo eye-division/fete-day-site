@@ -21,9 +21,9 @@ video_embed:
 images:
   - image_path: /uploads/gravity-fields-141.jpg
     description:
-  - image_path: /uploads/gravity-fields-141.jpg
+  - image_path:
     description:
-  - image_path: /uploads/gravity-fields-141.jpg
+  - image_path:
     description:
   - image_path: /uploads/gravity-fields-134.jpg
     description:
