@@ -14,22 +14,33 @@ description: >-
 project_date: 2018-07-01 00:00:00
 project_to_date: 2018-12-01 00:00:00
 list: true
-highlight: false
+highlight: true
 past: false
 main_image_path: /uploads/project-cover-image-2.jpg
 video_embed:
 images:
   - image_path: /uploads/gravity-fields-141.jpg
-    description:
+    description: >-
+      Voyages of Discovery themed Interactive Science Salon was held at Grantham
+      Museum
   - image_path: /uploads/gravity-fields-143.jpg
-    description:
+    description: >-
+      An interactive globe was designed with volunteers and Pufferfish, a
+      digital design company from Edinburgh - it appealed to all ages
   - image_path: /uploads/gravity-fields-144.jpg
-    description:
+    description: >-
+      Historians and experts on the the 17th and 18th centuries gathered at
+      Grantham Museum for the Science Salons
   - image_path: /uploads/gravity-fields-134.jpg
+    description: >-
+      Digital 'scribe' and host of the interactive globe, and scriptwriter,
+      Louise Page, talks with Simon Watt, TV presenter and others at the Science
+      Salon
+  - image_path:
     description:
 ---
 
-The project created a contemporary Science Salon in Grantham Museum in south Lincolnshire, with exhibitions relating to voyages of discovery, Lincolnshire philosophers of the 17th century and featuring a central interactive globe tracing the voyages of Lincolnshire-born botanist Sir Joseph Banks, who, 250 years ago, travelled with Captain Cook on HMS Endeavour to Australia.
+We created a contemporary interactive Science Salon in Grantham Museum in south Lincolnshire, with exhibitions relating to voyages of discovery, Lincolnshire philosophers of the 17th century and featuring a central interactive globe tracing the voyages of Lincolnshire-born botanist Sir Joseph Banks, who, 250 years ago, travelled with Captain Cook on HMS Endeavour to Australia.
 
 &nbsp;
 
