@@ -37,35 +37,43 @@ images:
       Louise Page, talks with Simon Watt, TV presenter and others at the Science
       Salon
   - image_path: /uploads/HLF Image-1.jpg
-    description:
+    description: >-
+      Volunteers research voyages of Joseph Banks at Grantham Museum workshop
+      end of July 2018
   - image_path: /uploads/HLF Image-10.jpg
-    description:
+    description: >-
+      Volunteers discuss routes of voyages and plan use of images on interactive
+      globe
   - image_path: /uploads/HLF Image-20.jpg
-    description:
+    description: Volunteers visit Spalding Gentlemen's Society
   - image_path: /uploads/HLF Image-36.jpg
-    description:
+    description: Viewing the archives at Spalding Gentlemen's Society
   - image_path: /uploads/HLF Image-40.jpg
-    description:
+    description: >-
+      Volunteer group awaiting transport for visit to Horncastle and Revesby
+      Abbey
   - image_path: /uploads/HLF Image-41.jpg
-    description:
+    description: Revesby Abbey visit - home of Sir Joseph Banks
   - image_path: /uploads/HLF Image-43.jpg
-    description:
+    description: The parkland at Revesby Abbey
   - image_path: /uploads/HLF Image-45.jpg
-    description:
+    description: A guided tour of Revesby for volunteers
   - image_path: /uploads/HLF Image-46.jpg
-    description:
+    description: >-
+      The church at Revesby - as Sir Joseph Banks would have known it over 250
+      years ago
   - image_path: /uploads/HLF Image-49.jpg
-    description:
+    description: The memorabilia and archives in the Church
   - image_path: /uploads/HLF Image-47.jpg
-    description:
+    description: An exhibition of Sir Joseph Banks' connection with Revesby
   - image_path: /uploads/Best of 151.jpg
-    description:
+    description: >-
+      The apothecary at Grantham Museum where the Newton alchemy show was
+      performed
   - image_path: /uploads/Gravity Fields-132.jpg
-    description:
+    description: Chlidren enjoying the interactive globe at Grantham Museum
   - image_path: /uploads/IMG_6187.JPG
-    description:
-  - image_path:
-    description:
+    description: The audience for our series of talks at the Science Salon
 ---
 
 We created a contemporary interactive Science Salon in Grantham Museum in south Lincolnshire, with exhibitions relating to voyages of discovery, Lincolnshire philosophers of the 17th century and featuring a central interactive globe tracing the voyages of Lincolnshire-born botanist Sir Joseph Banks, who, 250 years ago, travelled with Captain Cook on HMS Endeavour to Australia.  The Interactive Science Salon was held at the Museum and funded by a grant from the Heritage Lottery Fund and supported by Grantham Museum and South Kesteven District Council, alongside partnerships with Grantham Civic Society, Spalding Gentlemen’s Society, Type and Forme, and the Sir Joseph Banks Society.
