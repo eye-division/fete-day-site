@@ -1,7 +1,5 @@
 ---
-title: >-
-  Interactive Science Salon - At Grantham Museum as part of the Gravity Fields
-  Festival 2018
+title: Interactive Science Salon 2018 - At Grantham Museum
 description: >-
   The Interactive Science Salon was held at Grantham Museum as part of the
   Gravity Fields Festival supported by a National Lottery grant from the
