@@ -65,18 +65,20 @@ Many of the installations were on hand-pulled carts – ‘floats’ - with flor
 
 ![](/uploads/flower IMG_6435.JPG)
 
-Other static installations were created at the newly refurbished Wyndham Park boating pool working with a group of Wyndham Park volunteers.
+Other static installations were created at the newly refurbished Wyndham Park boating pool working with a group of Wyndham Park volunteers.&nbsp;
 
 ![](/uploads/wyndham _1190170996.jpg)
 
-Further volunteers created an indoor flower exhibition at Grantham Museum themed on the voyages of Sir Joseph Banks, the Linconlshire botanist who sailed on the HMS Endeavour with Captain Cook.&nbsp; Each arrangement featured a different landing stage of the voyage to Australia.
+Further volunteers created an indoor flower exhibition at Grantham Museum themed on the voyages of Sir Joseph Banks, the Lincolnshire botanist who sailed on the HMS Endeavour with Captain Cook.&nbsp; Each arrangement featured a different landing stage of the voyage to Australia.
 
 ![](/uploads/flower IMG_6160.JPG)
 
-It also celebrated the new improvements to Wyndham Park Grantham, and community members joined the Gravity Fields processional walks for the festivals 2018 &nbsp;flower themed event, and other walkers took part in walks as part of the wider festival activity.
+Other walkers took part in walks as part of the wider festival activity.
+
+![](/uploads/colsterworth-img-0124.jpg)
 
 Craft sessions for adult volunteers were held at Grantham Guildhall Arts Centre &nbsp;and at Wyndham Park, and numerous further sessions with schools and College groups, special sessions with the Grantham Blind Society, and flower arranging took place at Grantham Museum.&nbsp; The volunteers, students and school children then walked with their flower installations across the town of Grantham as part of the Gravity Fields Festival outdoor events. &nbsp;Museum volunteers were on hand with refreshments to reward schools and students who walked with their hand-drawn floats across the town centre.
 
 Further walks took place as part of the wider festival activity in and around the National Trust’s Woolsthorpe Manor and the neighbouring village of Colsterworth.
 
-![](/uploads/colsterworth-img-0124.jpg)
+Flowers, Floats and Walks was supported by the National Lottery through a Big Lottery Fund grant.
