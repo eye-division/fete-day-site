@@ -80,7 +80,7 @@ We created a contemporary interactive Science Salon in [Grantham Museum](http://
 
 The Science Salon ran alongside the [Gravity Fields Festival 2018](http://www.gravityfields.co.uk/) which was themed on Voyages of Discovery with the William Stukeley drawings exhibition and the Type and Forme travel writers exhibition extend to run until the end of October 2018.
 
-Volunteers in Grantham worked at the Museum with the Fete Day production team to research voyages of Lincolnshire born explorer to Newfoundland, Australia and Iceland. The research led to the creation of an electronic interactive globe designed with Edinburgh based interactive company [Pufferfish.](https://pufferfishdisplays.com/)
+Volunteers in Grantham worked at the Museum with the Fete Day production team to research voyages of Lincolnshire born explorer to Newfoundland, Australia and Iceland. The research led to the creation of an electronic interactive globe designed with Edinburgh based interactive company [Pufferfish.](https://pufferfishdisplays.com/)&nbsp;We are planning to tour the Sir Joseph Banks voyages globe (including the voyage of HMS Endeavour with Captain Cook) to museums in 2019-2020 so please do get in touch via our Contact page if you are interested in hosting it in relation to the 250th anniversary of the voyage of HMS Endeavour, and its arrival in Botany Bay in 2020.
 
 &nbsp;
 
