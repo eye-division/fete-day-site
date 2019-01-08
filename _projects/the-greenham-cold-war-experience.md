@@ -7,6 +7,8 @@ description: >-
   Journey through time and experience the Decontamination Suite, Peace Camp and
   Control Tower at Greenham Common in specially commissioned immersive theatre
   scenes.
+
+  The Greenham Cold War Experience is commissioned by the Greenham Trust
 project_date: 2018-09-08 00:00:00
 project_to_date: 2018-09-08 00:00:00
 list: true
