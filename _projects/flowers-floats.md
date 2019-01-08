@@ -61,7 +61,7 @@ Flowers, Floats and Walks offered community participants, working with local and
 
 ![](/uploads/flower-20.jpg)
 
-Many of the installations were on hand-pulled carts – ‘floats’ - with floral designs which took part in the large scale outdoor event.&nbsp;
+Many of the installations were on hand-pulled carts – ‘floats’ - with floral designs which took part in the large scale outdoor event. Community groups walked with their hand floats through Grantham town centre and displayed their floats as part of the outdoor event.
 
 ![](/uploads/flower IMG_6435.JPG)
 
