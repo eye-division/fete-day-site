@@ -27,26 +27,38 @@ images:
       Floral display showcasing one of the three trips by Sir Joseph Banks at
       Grantham museum during Gravity Fields Festival 2018.
   - image_path: /uploads/flower 069A4523.JPG
-    description:
-  - image_path: /uploads/gravity-fields-21.jpg
+    description: One of the procession walks set on its way by TV presenter Dallas Campbell
+  - image_path: /uploads/flower - IMG_6331.JPG
     description:
   - image_path: /uploads/img-6445-1.JPG
     description:
-  - image_path: /uploads/gravity-fields-30.jpg
+  - image_path: /uploads/flower 069A4518.JPG
     description:
   - image_path: /uploads/gravity-fields-94.jpg
     description:
-  - image_path: /uploads/gravity-fields-113.jpg
+  - image_path: /uploads/flower Gravity Fields-42.jpg
     description:
-  - image_path: /uploads/gravity-fields-34.jpg
-    description: Dallas Campbell poses for a photo with school children and their float.
-  - image_path: /uploads/img-6159.JPG
+  - image_path: /uploads/flower 069A4518.JPG
+    description:
+  - image_path: /uploads/flower 069A4522.JPG
+    description:
+  - image_path: /uploads/flower IMG_6476.JPG
+    description:
+  - image_path: 'https://www.dropbox.com/s/iqwrhodrlbi4p0s/IMG_6112.JPG?dl=0'
     description:
 ---
 
 Flowers, Floats and Walks offered community participants, working with local and national artists, the opportunity to learn new skills based on craft work with artificial and real flowers and plants.&nbsp; Through community sessions with adult community volunteers and college and school students, installations of flower were created.&nbsp;
 
-Many of the installations were on hand-pulled carts – ‘floats’ - with floral designs which took part in the large scale outdoor event.&nbsp; Other static installations were created at the newly refurbished Wyndham Park boating pool working with a group of Wyndham Park volunteers, and at an indoor flower exhibition at Grantham Museum.
+![](/uploads/flower-20.jpg)
+
+Many of the installations were on hand-pulled carts – ‘floats’ - with floral designs which took part in the large scale outdoor event.&nbsp;
+
+![](/uploads/flower IMG_6435.JPG)
+
+Other static installations were created at the newly refurbished Wyndham Park boating pool working with a group of Wyndham Park volunteers, and at an indoor flower exhibition at Grantham Museum.
+
+![](/uploads/flower IMG_6160.JPG)
 
 &nbsp;
 
@@ -56,4 +68,6 @@ Craft sessions for adult volunteers were held at Grantham Guildhall Arts Centre 
 
 Further walks took place as part of the wider festival activity in and around the National Trust’s Woolsthorpe Manor and the neighbouring village of Colsterworth.
 
-![](/uploads/english-compact-cmyk-2.jpg)
+&nbsp;
+
+![](/uploads/colsterworth-img-0124.jpg)
