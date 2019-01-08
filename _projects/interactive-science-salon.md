@@ -76,7 +76,9 @@ images:
 
 The contemporary interactive Science Salon was first staged in 2018 in&nbsp;[Grantham Museum](http://www.granthammuseum.org.uk/2018/12/05/science-salon-at-grantham-museum-feedback/) in south Lincolnshire, with exhibitions relating to voyages of discovery, Lincolnshire philosophers of the 17th century and featuring a central interactive globe tracing the voyages of Lincolnshire-born botanist Sir Joseph Banks, who, 250 years ago, travelled with Captain Cook on HMS Endeavour to Australia.&nbsp;
 
-[S](/Science Salon Brochure 2018 WEB.pdf){: target="_blank"}[cience Salon Brochure](__notset__)
+Interactive Science Salon Brochure
+
+&nbsp;
 
 The Science Salon was funded by a grant from the [Heritage Lottery Fund](https://www.hlf.org.uk/) and supported by Grantham Museum and South Kesteven District Council, alongside partnerships with Grantham Civic Society, Spalding Gentlemen’s Society, Type and Forme, and the Sir Joseph Banks Society.
 
