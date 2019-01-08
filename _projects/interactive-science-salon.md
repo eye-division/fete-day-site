@@ -72,6 +72,8 @@ images:
     description: Chlidren enjoying the interactive globe at Grantham Museum
   - image_path: /uploads/IMG_6187.JPG
     description: The audience for our series of talks at the Science Salon
+  - image_path: /uploads/versions/english-compact-pantone---x----869-535x---.jpg
+    description:
 ---
 
 We created a contemporary interactive Science Salon in [Grantham Museum](http://www.granthammuseum.org.uk/2018/12/05/science-salon-at-grantham-museum-feedback/) in south Lincolnshire, with exhibitions relating to voyages of discovery, Lincolnshire philosophers of the 17th century and featuring a central interactive globe tracing the voyages of Lincolnshire-born botanist Sir Joseph Banks, who, 250 years ago, travelled with Captain Cook on HMS Endeavour to Australia.&nbsp; The Interactive Science Salon was held at the Museum and funded by a grant from the [Heritage Lottery Fund](https://www.hlf.org.uk/) and supported by Grantham Museum and South Kesteven District Council, alongside partnerships with Grantham Civic Society, Spalding Gentlemen’s Society, Type and Forme, and the Sir Joseph Banks Society.
@@ -96,10 +98,6 @@ The Interactive Science Salon was presented in partnership with Grantham Museum,
 
 ![](/uploads/gravity-fields-131.jpg)
 
-&nbsp;
+The Interactive Science Salon was supported by the Heritage Lottery Fund.&nbsp;
 
 &nbsp;
-
-The Interactive Science Salon was supported by the Heritage Lottery Fund.
-
-![](/uploads/english-compact-cmyk-1.jpg)
