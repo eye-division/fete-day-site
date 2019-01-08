@@ -1,13 +1,10 @@
 ---
 title: 'Flowers, Floats and Walks'
 description: >-
-  Flowers Floats and Walks was held as part of the Gravity Fields Festival 2018
-  and was supported by a National Lottery grant from the Big Lottery Fund. 
-
-
-  From June to September 2018 this project enabled over 500 members of the
-  community in and around Grantham, Lincolnshire, to take part in a
-  nature-themed creative and healthy activity.
+  Flowers Floats and Walks was a 2018 project involving hundreds of people from
+  Grantham and South Lincolnshire who created flower installations and took part
+  in processions and walks,  as part of the Gravity Fields Festival 2018 and was
+  supported by a National Lottery grant from the Big Lottery Fund.
 project_date: 2018-06-01 00:00:00
 project_to_date: 2018-09-30 00:00:00
 list: true
@@ -60,7 +57,7 @@ images:
     description:
 ---
 
-Flowers, Floats and Walks offered community participants, working with local and national artists, the opportunity to learn new skills based on craft work with artificial and real flowers and plants.&nbsp; Through community sessions with adult community volunteers and college and school students, installations of flower were created.&nbsp;
+Flowers, Floats and Walks offered community participants, working with local and national artists, the opportunity to learn new skills based on craft work with artificial and real flowers and plants.&nbsp; Through community sessions with adult community volunteers and college and school students, installations of flower were created. From June to September 2018 this project enabled over 500 members of the community in and around Grantham, Lincolnshire, to take part in a nature-themed creative and healthy activity.
 
 ![](/uploads/flower-20.jpg)
 
@@ -68,18 +65,18 @@ Many of the installations were on hand-pulled carts – ‘floats’ - with flor
 
 ![](/uploads/flower IMG_6435.JPG)
 
-Other static installations were created at the newly refurbished Wyndham Park boating pool working with a group of Wyndham Park volunteers, and at an indoor flower exhibition at Grantham Museum.
+Other static installations were created at the newly refurbished Wyndham Park boating pool working with a group of Wyndham Park volunteers.
+
+![](/uploads/wyndham _1190170996.jpg)
+
+Further volunteers created an indoor flower exhibition at Grantham Museum themed on the voyages of Sir Joseph Banks, the Linconlshire botanist who sailed on the HMS Endeavour with Captain Cook.&nbsp; Each arrangement featured a different landing stage of the voyage to Australia.
 
 ![](/uploads/flower IMG_6160.JPG)
-
-&nbsp;
 
 It also celebrated the new improvements to Wyndham Park Grantham, and community members joined the Gravity Fields processional walks for the festivals 2018 &nbsp;flower themed event, and other walkers took part in walks as part of the wider festival activity.
 
 Craft sessions for adult volunteers were held at Grantham Guildhall Arts Centre &nbsp;and at Wyndham Park, and numerous further sessions with schools and College groups, special sessions with the Grantham Blind Society, and flower arranging took place at Grantham Museum.&nbsp; The volunteers, students and school children then walked with their flower installations across the town of Grantham as part of the Gravity Fields Festival outdoor events. &nbsp;Museum volunteers were on hand with refreshments to reward schools and students who walked with their hand-drawn floats across the town centre.
 
 Further walks took place as part of the wider festival activity in and around the National Trust’s Woolsthorpe Manor and the neighbouring village of Colsterworth.
-
-&nbsp;
 
 ![](/uploads/colsterworth-img-0124.jpg)
