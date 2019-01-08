@@ -44,7 +44,19 @@ images:
     description:
   - image_path: /uploads/flower IMG_6476.JPG
     description:
-  - image_path: 'https://www.dropbox.com/s/iqwrhodrlbi4p0s/IMG_6112.JPG?dl=0'
+  - image_path: /uploads/iris IMG_6112.jpg
+    description:
+  - image_path: /uploads/wyndham _1190170996.jpg
+    description:
+  - image_path: /uploads/warehouse IMG_6330.jpg
+    description:
+  - image_path: /uploads/display IMG_6431.jpg
+    description:
+  - image_path: /uploads/CU white IMG_6452.jpg
+    description:
+  - image_path: /uploads/CU green IMG_6471.jpg
+    description:
+  - image_path: /uploads/big lottery blue-small.jpg
     description:
 ---
 
