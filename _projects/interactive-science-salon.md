@@ -1,14 +1,12 @@
 ---
-title: Interactive Science Salon 2018 - At Grantham Museum
+title: Interactive Science Salon
 description: >-
-  The Interactive Science Salon was held at Grantham Museum as part of the
-  Gravity Fields Festival supported by a National Lottery grant from the
-  Heritage Lottery Fund.  The Science Salon created exhibitions about Sir Joseph
+  The Interactive Science Salon was originally held at Grantham Museum as part
+  of the Gravity Fields Festival supported by a National Lottery grant from the
+  Heritage Lottery Fund.  We are now planning a tour of the interactive globe
+  for 2019 and 2020. The Science Salon created exhibitions about Sir Joseph
   Banks who accompanied Captain Cook on the HMS Endeavour to Australia, and
-  other Lincolnshire philosophers of the era.  We created an interactive globe
-  and held discussions, talks and performances as part of the Science Salon,
-  creating an informal atmosphere to encourage discussion and sharing of
-  knowledge.
+  other Lincolnshire philosophers of the era.
 project_date: 2018-07-01 00:00:00
 project_to_date: 2018-12-01 00:00:00
 list: true
@@ -76,28 +74,22 @@ images:
     description:
 ---
 
-We created a contemporary interactive Science Salon in [Grantham Museum](http://www.granthammuseum.org.uk/2018/12/05/science-salon-at-grantham-museum-feedback/) in south Lincolnshire, with exhibitions relating to voyages of discovery, Lincolnshire philosophers of the 17th century and featuring a central interactive globe tracing the voyages of Lincolnshire-born botanist Sir Joseph Banks, who, 250 years ago, travelled with Captain Cook on HMS Endeavour to Australia.&nbsp; The Interactive Science Salon was held at the Museum and funded by a grant from the [Heritage Lottery Fund](https://www.hlf.org.uk/) and supported by Grantham Museum and South Kesteven District Council, alongside partnerships with Grantham Civic Society, Spalding Gentlemen’s Society, Type and Forme, and the Sir Joseph Banks Society.
+The contemporary interactive Science Salon was first staged in 2018 in&nbsp;[Grantham Museum](http://www.granthammuseum.org.uk/2018/12/05/science-salon-at-grantham-museum-feedback/) in south Lincolnshire, with exhibitions relating to voyages of discovery, Lincolnshire philosophers of the 17th century and featuring a central interactive globe tracing the voyages of Lincolnshire-born botanist Sir Joseph Banks, who, 250 years ago, travelled with Captain Cook on HMS Endeavour to Australia.&nbsp;
+
+The Science Salon was funded by a grant from the [Heritage Lottery Fund](https://www.hlf.org.uk/) and supported by Grantham Museum and South Kesteven District Council, alongside partnerships with Grantham Civic Society, Spalding Gentlemen’s Society, Type and Forme, and the Sir Joseph Banks Society.
+
+For the project we created an interactive globe and held discussions, talks and performances as part of the Science Salon, creating an informal atmosphere to encourage discussion and sharing of knowledge.
 
 The Science Salon ran alongside the [Gravity Fields Festival 2018](http://www.gravityfields.co.uk/) which was themed on Voyages of Discovery with the William Stukeley drawings exhibition and the Type and Forme travel writers exhibition extend to run until the end of October 2018.
 
 Volunteers in Grantham worked at the Museum with the Fete Day production team to research voyages of Lincolnshire born explorer to Newfoundland, Australia and Iceland. The research led to the creation of an electronic interactive globe designed with Edinburgh based interactive company [Pufferfish.](https://pufferfishdisplays.com/)&nbsp;We are planning to tour the Sir Joseph Banks voyages globe (including the voyage of HMS Endeavour with Captain Cook) to museums in 2019-2020 so please do get in touch via our Contact page if you are interested in hosting it in relation to the 250th anniversary of the voyage of HMS Endeavour, and its arrival in Botany Bay in 2020.
 
-&nbsp;
-
 ![](/uploads/hlf-image-15.jpg)
-
-&nbsp;
 
 As part of the Interactive Science Salon, we also hosted a series of historical talks, a display of drawings by the Lincolnshire philosopher William Stukeley (who lived in Grantham for 4 years from 1726 to 1730), an exhibition of antiquarian books by Grantham-based specialists Type and Forme, and a flower show organised by Sue Hodgson and Grantham flower arrangers inspired by the countries visited by HMS Endeavour.
 
-&nbsp;
-
 The Interactive Science Salon was presented in partnership with Grantham Museum, Gravity Fields Festival 2018, South Kesteven District Council, Grantham Civic Society, the Joseph Banks Society and Centre, Spalding Gentleman’s Society and with the support of academics at UCL.
-
-&nbsp;
 
 ![](/uploads/gravity-fields-131.jpg)
 
 The Interactive Science Salon was supported by the Heritage Lottery Fund.&nbsp;
-
-&nbsp;
