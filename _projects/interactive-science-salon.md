@@ -74,7 +74,9 @@ images:
     description:
 ---
 
-The contemporary interactive Science Salon was first staged in 2018 in [Grantham Museum](http://www.granthammuseum.org.uk/2018/12/05/science-salon-at-grantham-museum-feedback/) in south Lincolnshire, with exhibitions relating to voyages of discovery, Lincolnshire philosophers of the 17th century and featuring a central interactive globe tracing the voyages of Lincolnshire-born botanist Sir Joseph Banks, who, 250 years ago, travelled with Captain Cook on HMS Endeavour to Australia. 
+The contemporary interactive Science Salon was first staged in 2018 in&nbsp;[Grantham Museum](http://www.granthammuseum.org.uk/2018/12/05/science-salon-at-grantham-museum-feedback/) in south Lincolnshire, with exhibitions relating to voyages of discovery, Lincolnshire philosophers of the 17th century and featuring a central interactive globe tracing the voyages of Lincolnshire-born botanist Sir Joseph Banks, who, 250 years ago, travelled with Captain Cook on HMS Endeavour to Australia.&nbsp;
+
+[S](/Science Salon Brochure 2018 WEB.pdf){: target="_blank"}[cience Salon Brochure](__notset__)
 
 The Science Salon was funded by a grant from the [Heritage Lottery Fund](https://www.hlf.org.uk/) and supported by Grantham Museum and South Kesteven District Council, alongside partnerships with Grantham Civic Society, Spalding Gentlemen’s Society, Type and Forme, and the Sir Joseph Banks Society.
 
@@ -82,7 +84,7 @@ For the project we created an interactive globe and held discussions, talks and 
 
 The Science Salon ran alongside the [Gravity Fields Festival 2018](http://www.gravityfields.co.uk/) which was themed on Voyages of Discovery with the William Stukeley drawings exhibition and the Type and Forme travel writers exhibition extend to run until the end of October 2018.
 
-Volunteers in Grantham worked at the Museum with the Fete Day production team to research voyages of Lincolnshire born explorer to Newfoundland, Australia and Iceland. The research led to the creation of an electronic interactive globe designed with Edinburgh based interactive company [Pufferfish.](https://pufferfishdisplays.com/) We are planning to tour the Sir Joseph Banks voyages globe (including the voyage of HMS Endeavour with Captain Cook) to museums in 2019-2020 so please do get in touch via our Contact page if you are interested in hosting it in relation to the 250th anniversary of the voyage of HMS Endeavour, and its arrival in Botany Bay in 2020.
+Volunteers in Grantham worked at the Museum with the Fete Day production team to research voyages of Lincolnshire born explorer to Newfoundland, Australia and Iceland. The research led to the creation of an electronic interactive globe designed with Edinburgh based interactive company [Pufferfish.](https://pufferfishdisplays.com/)&nbsp;We are planning to tour the Sir Joseph Banks voyages globe (including the voyage of HMS Endeavour with Captain Cook) to museums in 2019-2020 so please do get in touch via our Contact page if you are interested in hosting it in relation to the 250th anniversary of the voyage of HMS Endeavour, and its arrival in Botany Bay in 2020.
 
 ![](/uploads/hlf-image-15.jpg)
 
