@@ -56,7 +56,7 @@ blockquote {
     section {
       width: 50%;
       margin: 0;
-      padding: 0.5em;
+      padding: 0.5em 0.5em 0.5em 0;
     }
   }
 
@@ -189,7 +189,7 @@ main {
 
   #content {
     @include outer-container;
-    padding: 0.25em;
+    padding: 0.25em 0.25em 0.25em 20px;
   }
   /*
   *	index.html
@@ -308,11 +308,11 @@ main {
 .front {
   width: 100%;
   height: 100%;
-  background-image: url("../assets/gravity_fields_sm.jpg");
+  background-image: url("../assets/home-sm.jpg");
   background-position: 50%;
   background-size: cover;
   @include media ($medium-screen) {
-    background-image: url("../assets/gravity_fields_lg.jpg");
+    background-image: url("../assets/home-lg.jpg");
   }
   .site-header {
     @include outer_container;
