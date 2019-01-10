@@ -338,7 +338,13 @@ main {
     }
   }
 }
-
+.front--caption {
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
+    color: white;
+    font-size: small;
+}
 /*
  * Projects page
  */
