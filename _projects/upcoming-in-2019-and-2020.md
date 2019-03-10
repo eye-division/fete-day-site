@@ -1,0 +1,22 @@
+---
+title: Upcoming in 2019 and 2020
+description:
+project_date:
+project_to_date:
+list: false
+highlight: false
+past: false
+main_image_path:
+video_embed:
+images:
+  - image_path:
+    description:
+_options:
+  layout:
+    hidden: true
+  image_path:
+    width: '1600'
+    height: '1600'
+    resize_style: contain
+    mime_type: image/jpeg
+---
