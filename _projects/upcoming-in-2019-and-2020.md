@@ -18,7 +18,7 @@ description: |-
   Tour of Voyages of Discovery with Shademakers UK
 project_date: 2019-03-11 00:00:00
 project_to_date: 2020-12-31 00:00:00
-list: false
+list: true
 highlight: true
 past: false
 main_image_path: /uploads/swan and lion.JPG
