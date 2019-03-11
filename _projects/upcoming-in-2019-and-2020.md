@@ -1,5 +1,5 @@
 ---
-title: Upcoming in 2019 and 2020
+title: Events Coming Up 2019 and 2020
 description: |-
   2019 
 
@@ -16,6 +16,8 @@ description: |-
   Tour of Sir Joseph Banks Globe;
 
   Tour of Voyages of Discovery with Shademakers UK
+
+  With partner company Rosa Productions
 project_date: 2019-03-11 00:00:00
 project_to_date: 2020-12-31 00:00:00
 list: true
