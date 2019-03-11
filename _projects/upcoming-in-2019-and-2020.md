@@ -16,10 +16,10 @@ description: |-
   Tour of Sir Joseph Banks Globe;
 
   Tour of Voyages of Discovery with Shademakers UK
-project_date:
-project_to_date:
+project_date: 2019-03-11 00:00:00
+project_to_date: 2020-12-31 00:00:00
 list: false
-highlight: false
+highlight: true
 past: false
 main_image_path: /uploads/swan and lion.JPG
 video_embed:
@@ -38,7 +38,7 @@ _options:
 
 **Upcoming Projects 2019 - Fete Day and partner company Rosa Productions**
 
-Greenham Cold War Experience - 18-27 May [Tickets](https://cornexchangenew.com/event/greenham-cold-war-experience-2019)&nbsp;[More information](https://www.feteday.co.uk/projects/the-greenham-cold-war-experience/)
+Greenham Cold War Experience - 18-27 May [Tickets](https://cornexchangenew.com/event/greenham-cold-war-experience-2019) [More information](https://www.feteday.co.uk/projects/the-greenham-cold-war-experience/)
 
 Leeds Castle Kent - Carnival of History celebrating 900 Years - 27-28 July (Main Procession 3pm Sunday 28 July) [Event and Take Part Information](https://www.leeds-castle.com/What%E2%80%99s+On/Featured+Events/Carnival+of+History/)
 
