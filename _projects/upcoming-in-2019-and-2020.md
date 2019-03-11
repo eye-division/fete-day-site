@@ -15,7 +15,7 @@ description: |-
 
   Tour of Sir Joseph Banks Globe;
 
-  Tour of Voyages of Discovery with Shademakers UK
+  Tour of Voyages of Discovery with Shademakers UK.
 
   With partner company Rosa Productions
 project_date: 2019-03-11 00:00:00
