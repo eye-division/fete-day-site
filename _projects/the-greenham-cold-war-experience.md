@@ -12,7 +12,7 @@ description: >-
 project_date: 2018-09-08 00:00:00
 project_to_date: 2019-05-31 00:00:00
 list: true
-highlight: false
+highlight: true
 past: false
 main_image_path: /uploads/C5D40199.jpg
 video_embed:
@@ -27,9 +27,11 @@ images:
     description: Greenham Common Control Tower
 ---
 
-2019 Performances will take place from 18-27 May.&nbsp; Further details on Corn Exchange Ticket website
+2019 Performances will take place from 18-27 May.&nbsp; Further details on Corn Exchange Ticket website on the link below
 
-&lt;iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGreenhamWP17%2Fposts%2F2362783683965323&width=500" width="500" height="707" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"&gt;&lt;/iframe&gt;&nbsp;
+[&nbsp;2019 Tickets available here](https://cornexchangenew.com/event/greenham-cold-war-experience-2019)
+
+The first staging of the Greenham Cold War Experience was in September 2018:-
 
 **"Absolutely loved it\! So glad you did this. We learned a lot, laughed a lot and really enjoyed the whole thing - loved the Control Tower and the decontamination suite was brilliant\!&nbsp; You got the Peace Camp women spot on\! :)"**
 
