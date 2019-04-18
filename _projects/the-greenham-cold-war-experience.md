@@ -4,8 +4,6 @@ description: >-
   Tickets now on sale for  Greenham Cold War Experience are planned for May
   2019.  
 
-  Tickets
-
   Journey through time and experience the Decontamination Suite, Peace Camp and
   Control Tower at Greenham Common in specially commissioned immersive theatre
   scenes.
@@ -33,7 +31,7 @@ images:
     description:
 ---
 
-[...](hhttps://www.facebook.com/GreenhamWP17/posts/2362783683965323){: target="_blank"}2019 Performances will take place from 18-27 May.&nbsp; Further details on Corn Exchange Ticket website on the link below
+[…](hhttps://www.facebook.com/GreenhamWP17/posts/2362783683965323){: target="_blank"}2019 Performances will take place from 18-27 May.&nbsp; Further details on Corn Exchange Ticket website on the link below
 
 [&nbsp;2019 Tickets available here](https://cornexchangenew.com/event/greenham-cold-war-experience-2019)
 
