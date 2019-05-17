@@ -31,7 +31,7 @@ images:
     description:
 ---
 
-[…](hhttps://www.facebook.com/GreenhamWP17/posts/2362783683965323){: target="_blank"}2019 Performances will take place from 18-27 May.&nbsp; Further details on Corn Exchange Ticket website on the link below
+2019 Performances will take place from 18-27 May.&nbsp; Advance Booking on Corn Exchange Ticket website on the link below. On the day tickets - please arrive at least 20 minutes prior to performance time at Greenham Business Park start point of experience....Enter Business Park through entrance nearest Newbury, then follow signs to Cold War Experience at Venture West Building RG19 6HX.&nbsp; The Control Tower start point is mostly sold out for all performances, but tickets still available at Business Park start point. Please dress for outdoors and walking.
 
 [&nbsp;2019 Tickets available here](https://cornexchangenew.com/event/greenham-cold-war-experience-2019)
 
