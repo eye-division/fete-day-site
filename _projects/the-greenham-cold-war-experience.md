@@ -1,14 +1,11 @@
 ---
 title: The Greenham Cold War Experience
 description: >-
-  Tickets now on sale for  Greenham Cold War Experience are planned for May
-  2019.  
+  This site specific performance in May 2019 and September 2018 at Greenham
+  Common was a 
 
-  Journey through time and experience the Decontamination Suite, Peace Camp and
-  Control Tower at Greenham Common in specially commissioned immersive theatre
-  scenes.
-
-  The Greenham Cold War Experience is commissioned by the Greenham Trust
+  journey through time to the Cold War era Decontamination Suite, Peace Camp and
+  Control Tower . This immersive experience was commissioned by Greenham Trust.
 project_date: 2018-09-08 00:00:00
 project_to_date: 2019-05-31 00:00:00
 list: true
@@ -31,15 +28,11 @@ images:
     description:
 ---
 
-2019 Performances will take place from 18-27 May.&nbsp; Advance Booking on Corn Exchange Ticket website on the link below. On the day tickets - please arrive at least 20 minutes prior to performance time at Greenham Business Park start point of experience....Enter Business Park through entrance nearest Newbury, then follow signs to Cold War Experience at Venture West Building RG19 6HX.&nbsp; The Control Tower start point is mostly sold out for all performances, but tickets still available at Business Park start point. Please dress for outdoors and walking.
+Performances of Greenham Cold War Experience took place in May 2019 and September 2018 at Greenham Common:-
 
-[&nbsp;2019 Tickets available here](https://cornexchangenew.com/event/greenham-cold-war-experience-2019)
+**“Absolutely loved it\! So glad you did this. We learned a lot, laughed a lot and really enjoyed the whole thing - loved the Control Tower and the decontamination suite was brilliant\!&nbsp; You got the Peace Camp women spot on\! :)”**
 
-The first staging of the Greenham Cold War Experience was in September 2018:-
-
-**"Absolutely loved it\! So glad you did this. We learned a lot, laughed a lot and really enjoyed the whole thing - loved the Control Tower and the decontamination suite was brilliant\!&nbsp; You got the Peace Camp women spot on\! :)"**
-
-**"The actors were brilliant - they gave a real sense of what it might have been like to be on the Common during the eighties."**
+**“The actors were brilliant - they gave a real sense of what it might have been like to be on the Common during the eighties.”**
 
 ![](/uploads/img-6039-1.jpg)
 
@@ -69,7 +62,7 @@ Linked by Military History walks (with option to use own vehicle instead of walk
 
 &nbsp;**“WOW - the decontamination suite performers were FANTASTIC\! They really created the mood. The visit has inspired children to do further research into Greenham Common’s history” Mary Hare School 2017 performance of Decontamination Suite Tour&nbsp;**
 
-**"Enjoyed the entire event from beginning to end. Well organised. Interesting. Brilliantly acted by welcoming people. So believable\!"**
+**“Enjoyed the entire event from beginning to end. Well organised. Interesting. Brilliantly acted by welcoming people. So believable\!“**
 
 The Greenham Cold War Experience is supported and commissioned by the Greenham Trust
 
