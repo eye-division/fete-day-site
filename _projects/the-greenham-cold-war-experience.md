@@ -9,7 +9,7 @@ description: >-
 project_date: 2018-09-08 00:00:00
 project_to_date: 2019-05-31 00:00:00
 list: true
-highlight: true
+highlight: false
 past: false
 main_image_path: /uploads/C5D40199.jpg
 video_embed:
