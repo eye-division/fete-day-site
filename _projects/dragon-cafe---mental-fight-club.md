@@ -12,8 +12,8 @@ description: >-
   benefit of arts in the support of our mental wellbeing.
 project_date: 2019-05-01 00:00:00
 project_to_date: 2019-06-30 00:00:00
-list: false
-highlight: false
+list: true
+highlight: true
 past: false
 main_image_path: /uploads/img-8548.jpg
 video_embed: >-
