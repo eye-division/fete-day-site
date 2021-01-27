@@ -10,6 +10,20 @@ html, body {
 
 /* sticky footer from https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ */
 
+/* front page message */
+.message {
+    margin: 2rem;
+    padding: 1rem;
+    background: #fff;
+    border: 1px solid black;
+    text-align: center;
+
+    @include media ($tablet) {
+      width: 50%;
+      margin: 2rem auto;
+    }
+}
+ 
 html {
   height: 100%;
 }
